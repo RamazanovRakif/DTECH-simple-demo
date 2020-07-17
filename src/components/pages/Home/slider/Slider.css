@@ -1,0 +1,11 @@
+.slider-item{
+    width: 100%;
+    max-height: 600px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    object-fit: contain ;
+
+}
+
